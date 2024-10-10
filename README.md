@@ -7,4 +7,4 @@ For the breast cancer AI study results, all credit for the image goes to the aut
 
 Shen, Y., Shamout, F.E., Oliver, J.R. et al. Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams. Nat Commun 12, 5645 (2021). https://doi.org/10.1038/s41467-021-26023-2. https://www.nature.com/articles/s41467-021-26023-2.
 
-For any questions or comments, feel free to contact at Andrew.Marra@gehealthcare.com
+For any questions or comments, feel free to contact at Andrew.Marra@gehealthcare.com.
