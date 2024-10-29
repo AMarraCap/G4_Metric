@@ -1,5 +1,7 @@
 # G4_Metric
-R Scripts, Simulated Datasets, &amp; Figures From The G4 Manuscript
+R Scripts, Simulated Datasets, &amp; Figures From The G4 Manuscript:
+
+Marra, A. G4 & the balanced metric family – a novel approach to solving binary classification problems in medical device validation & verification studies. BioData Mining 17, 43 (2024). https://doi.org/10.1186/s13040-024-00402-z.
 
 Each R script contains instructions on how to import a dataset, analyze it, and summarize the results. Simulated datasets mimic results from a Multi-Reader-Multi-Case (MRMC) study with two modalities ("Aided" & "Unaided") and one reader (this can also be seen as a reader-average score) across different minority-class prevalence rates.
 
